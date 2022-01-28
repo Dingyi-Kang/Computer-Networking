@@ -1,4 +1,4 @@
 # Computer-Networking
 
-##Intro
-- Internet(Intro/Internet.md)
+## Intro
+* Internet(Intro/Internet.md)
